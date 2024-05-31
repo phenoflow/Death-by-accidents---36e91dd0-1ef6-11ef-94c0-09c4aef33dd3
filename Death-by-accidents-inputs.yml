@@ -1,0 +1,312 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-noncolln---secondary.py
+inputModule3:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-explosure---secondary.py
+inputModule4:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-waterski---secondary.py
+inputModule5:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-23wheel---secondary.py
+inputModule6:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-scratched---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-handgun---secondary.py
+inputModule8:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-nontraf---secondary.py
+inputModule9:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-indust---secondary.py
+inputModule10:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-fixedwing---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-hallucn---secondary.py
+inputModule12:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-boiler---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-nonpoweredaircraft---secondary.py
+inputModule14:
+  class: File
+  path: python/gastric-death-by-accidents-unnatural-cause---secondary.py
+inputModule15:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-light---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-furniture---secondary.py
+inputModule17:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-drowng---secondary.py
+inputModule18:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-persons---secondary.py
+inputModule19:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-flood---secondary.py
+inputModule20:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-steps---secondary.py
+inputModule21:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-hcarbon---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-spine---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-tsport---secondary.py
+inputModule24:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-sailboat---secondary.py
+inputModule25:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-shotgun---secondary.py
+inputModule26:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-specif---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-animaldrawn---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-hanging---secondary.py
+inputModule29:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-clothing---secondary.py
+inputModule30:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-injuring---secondary.py
+inputModule31:
+  class: File
+  path: python/material-death-by-accidents-unnatural-cause---secondary.py
+inputModule32:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-mcycle---secondary.py
+inputModule33:
+  class: File
+  path: python/environmental-death-by-accidents-unnatural-cause---secondary.py
+inputModule34:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-falling---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-noncoll---secondary.py
+inputModule36:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-skateboard---secondary.py
+inputModule37:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-objects---secondary.py
+inputModule38:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-kayak---secondary.py
+inputModule39:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-scorpion---secondary.py
+inputModule40:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-dagger---secondary.py
+inputModule41:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-insect---secondary.py
+inputModule42:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-storm---secondary.py
+inputModule43:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-suffocation---secondary.py
+inputModule44:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-sequelae---secondary.py
+inputModule45:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-spider---secondary.py
+inputModule46:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-hornet---secondary.py
+inputModule47:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-firework---secondary.py
+inputModule48:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-pinched---secondary.py
+inputModule49:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-avalanche---secondary.py
+inputModule50:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-antirheum---secondary.py
+inputModule51:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-motion---secondary.py
+inputModule52:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-ladder---secondary.py
+inputModule53:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-streetcar---secondary.py
+inputModule54:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-orifice---secondary.py
+inputModule55:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-submn---secondary.py
+inputModule56:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-agricult---secondary.py
+inputModule57:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-millipede---secondary.py
+inputModule58:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-stampede---secondary.py
+inputModule59:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-scaffolding---secondary.py
+inputModule60:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-wheelchair---secondary.py
+inputModule61:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-eruption---secondary.py
+inputModule62:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-pushing---secondary.py
+inputModule63:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-service---secondary.py
+inputModule64:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-privation---secondary.py
+inputModule65:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-steam---secondary.py
+inputModule66:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-arthropod---secondary.py
+inputModule67:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-reptile---secondary.py
+inputModule68:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-entering---secondary.py
+inputModule69:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-stumbling---secondary.py
+inputModule70:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-psytrop---secondary.py
+inputModule71:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-firearm---secondary.py
+inputModule72:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-glass---secondary.py
+inputModule73:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-allterr---secondary.py
+inputModule74:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-projected---secondary.py
+inputModule75:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-presurized---secondary.py
+inputModule76:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-tract---secondary.py
+inputModule77:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-transp---secondary.py
+inputModule78:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-animalrider---secondary.py
+inputModule79:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-unpowered---secondary.py
+inputModule80:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-alligator---secondary.py
+inputModule81:
+  class: File
+  path: python/larger-death-by-accidents-unnatural-cause---secondary.py
+inputModule82:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-fluid---secondary.py
+inputModule83:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-vibration---secondary.py
+inputModule84:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-bitten---secondary.py
+inputModule85:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-movement---secondary.py
+inputModule86:
+  class: File
+  path: python/content-death-by-accidents-unnatural-cause---secondary.py
+inputModule87:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-liting---secondary.py
+inputModule88:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-another---secondary.py
+inputModule89:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-playground---secondary.py
+inputModule90:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-craft---secondary.py
+inputModule91:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-nonmotor---secondary.py
+inputModule92:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-lizard---secondary.py
+inputModule93:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-cliff---secondary.py
+inputModule94:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-pedesn---secondary.py
+inputModule95:
+  class: File
+  path: python/mammal-death-by-accidents-unnatural-cause---secondary.py
+inputModule96:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-earth---secondary.py
+inputModule97:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-merchant---secondary.py
+inputModule98:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-prolonged---secondary.py
+inputModule99:
+  class: File
+  path: python/death-by-accidents-unnatural-cause---secondary.py
+inputModule100:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-institution---secondary.py
+inputModule101:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-stock---secondary.py
+inputModule102:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-occurrence---secondary.py
+inputModule103:
+  class: File
+  path: python/death-by-accidents-unnatural-cause-traff---secondary.py
+inputModule104:
+  class: File
+  path: python/output-cases.py
